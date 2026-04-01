@@ -4,7 +4,7 @@ Backend Developer focused on performance, automation, and system design.
 
 ## About Me
 
-- Backend Developer at NTT Data
+- Commerce Backend Developer at NTT Data
 - Working with SAP Commerce (Hybris), Java, and modern API architectures
 - Strong focus on building CLI tools, automation, and high-performance systems
 - Comfortable with Linux environments, low-level problem solving, and reverse engineering
